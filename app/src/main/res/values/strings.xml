@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SampleApps</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">My Profile</string>
+    <string name="second_fragment_label">Portofolio</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="my_name">Agus Siswanto</string>
+    <string name="title">Engineer Specialist</string>
+    <string name="about">About Me</string>
+    <string name="about_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sollicitudin, nunc at suscipit condimentum, leo lectus faucibus neque, at hendrerit ligula ex eu nulla. Duis porttitor pharetra nibh ut malesuada. Etiam eu porta enim. Phasellus porta lectus a lacus sagittis, sit amet pellentesque justo posuere.</string>
+    <string name="contact">Contact</string>
+    <string name="my_number">085692125876</string>
+    <string name="my_email">xcodeme21@gmail.com</string>
+    <string name="my_address">Tasikmalaya, West Java, Indonesia</string>
+    <string name="expertise">Expertise</string>
+    <string name="ex_go">Go</string>
+    <string name="ex_php">PHP</string>
+    <string name="ex_react">React</string>
+    <string name="ex_kotlin">Kotlin</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
